@@ -1,1 +1,1 @@
-echo "wassup buddy !!"
+echo "wassup buddy v6!!"
